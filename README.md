@@ -1,1 +1,1 @@
-criando um sistema de jogo de xadrez
+Criando um sistema de jogo de xadrez
